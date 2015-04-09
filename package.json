@@ -1,5 +1,5 @@
 {
-  "name": "JoiBird",
+  "name": "joibird",
   "version": "1.0.0",
   "description": "Joi + Bluebird = A Promise based library for Joi",
   "main": "lib/joibird.js",
