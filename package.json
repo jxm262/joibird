@@ -1,0 +1,28 @@
+{
+  "name": "JoiBird",
+  "version": "1.0.0",
+  "description": "Joi + Bluebird = A Promise based library for Joi",
+  "main": "lib/joibird.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "Joi",
+    "Bluebird",
+    "Promises",
+    "Joi-Promises",
+    "Joi-Bluebird"
+  ],
+  "author": "Justin Maat <jxm262@gmail.com> (http://jmaat.me/)",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^2.9.24",
+    "joi": "^6.1.0"
+  },
+  "devDependencies": {
+    "chai": "^2.2.0",
+    "chai-as-promised": "^4.3.0",
+    "mocha": "^2.2.4",
+    "sinon": "^1.14.1"
+  }
+}
