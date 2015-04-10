@@ -1,4 +1,4 @@
-# joibird
+# joibird  [![Build Status](https://travis-ci.org/jxm262/joibird.svg?branch=master)](https://travis-ci.org/jxm262/joibird)  
 Joi + Bluebird = A Promise based library for Joi
   
 Joibird converts the `validate` function of Joi to make it Asynchronous  
